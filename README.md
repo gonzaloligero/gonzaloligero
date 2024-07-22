@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 Sobre mí:
 Mi nombre es Gonzalo. Soy desarrollador back-end.<br>Estudié programación en la UTN y sigo perfeccionándome en el desarrollo y producción de  videojuegos, también en la UTN.<br>Futuro estudiante de Ingeniería en Sistemas.
 
@@ -16,3 +17,4 @@ Mi nombre es Gonzalo. Soy desarrollador back-end.<br>Estudié programación en l
 [![](https://visitcount.itsvg.in/api?id=gonzaloligero&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
